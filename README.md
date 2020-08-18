@@ -14,3 +14,7 @@ Sample website with plenty of files for demostration
 
 This is a sample web prject, deploy on any server or local file system
 ## How to contribute
+
+### Copyright
+
+2014 Git. Training.
