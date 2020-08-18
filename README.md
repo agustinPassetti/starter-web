@@ -8,8 +8,9 @@ This example is to show differents etc etc
 
 ## Purpose
 
-Sample website with plenty of files for demos
+Sample website with plenty of files for demostration
 
 ## Deployment
 
+This is a sample web prject, deploy on any server or local file system
 ## How to contribute
